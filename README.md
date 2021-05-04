@@ -11,6 +11,6 @@
   <li>Color literals.</li>
 </ul>
 <h2>☑️ Final look of Tipsy app➕</h2>
-<img src="tipsy.gif" alt="tipsy" width="50%" height="70%">
+<img src="tipsy.gif" alt="tipsy" width="30%" height="70%">
 
 
